@@ -11,7 +11,7 @@ export const combine = {
     // while dropping: fade out totally
     drop: 0,
     // while dragging: fade out partially
-    combining: 0.7,
+    combining: 1,
   },
   scale: {
     drop: 0.75,
